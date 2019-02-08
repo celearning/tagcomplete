@@ -1,0 +1,8 @@
+{
+  "name": "tagcomplete",
+  "version": "0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celearning/tagcomplete.git"
+  }
+}
